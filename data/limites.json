@@ -21,6 +21,13 @@
       "claro": "Es el manual con los límites por producto: cuántos celulares, cuántas computadoras, cuántos kg de ropa, etc."
     }
   ],
+  "franquicia_viajero": {
+    "efectos_personales_kg": 25,
+    "exencion_valor_usd": 50.99,
+    "texto": "En equipaje acompañado entran 25 kg de efectos personales libres de arancel, más una exención de 50,99 USD de valor por viaje para artículos sin carácter comercial. Lo que exceda se valora (misceláneas 1 kg = 10 USD) y paga impuesto aduanero.",
+    "aclaracion": "Estar dentro del límite de unidades NO significa libre de pago: el límite de unidades evita el despacho comercial (tarifa progresiva 15–30 %), no el impuesto aduanero normal.",
+    "excepcion": "Alimentos, aseo, medicamentos e insumos médicos: sin límite de valor y exentos en equipaje acompañado, en bultos separados."
+  },
   "regla_general": {
     "hasta_50_usd": 5,
     "mas_de_50_usd": 3,
