@@ -1,0 +1,82 @@
+{
+  "actualizado": "2026-10-12T00:00:00+00:00",
+  "fuentes": [
+    "https://www.gacetaoficial.gob.cu/es/normas-juridicas",
+    "https://www.gacetaoficial.gob.cu/es/gacetas-oficiales",
+    "https://www.gacetaoficial.gob.cu/es/ediciones-del-mes"
+  ],
+  "errores": [],
+  "normas": [
+    {
+      "ruta": "/es/decreto-ley-132-de-2026-de-consejo-de-estado",
+      "titulo": "Decreto-Ley 132/2026 del Consejo de Estado",
+      "url": "https://www.gacetaoficial.gob.cu/es/decreto-ley-132-de-2026-de-consejo-de-estado",
+      "detectada": "2026-10-05T00:00:00+00:00",
+      "traduccion": {
+        "etiqueta": "aduanas_viajes",
+        "confianza": 0.97,
+        "resumen": [
+          "Modifica el Artículo 14 del Decreto-Ley 22 «Arancel de Aduanas de la República de Cuba para las importaciones sin carácter comercial».",
+          "Ajusta la regla que decide cuánto se paga de aduana cuando una persona trae mercancía para su uso personal o familiar."
+        ],
+        "terminos": [
+          { "termino": "arancel", "claro": "impuesto de aduana" },
+          { "termino": "sin caracter comercial", "claro": "para ti o tu familia, no para venderlo" }
+        ],
+        "legibilidad": {
+          "antes": { "indice": 22.4, "nivel": "difícil (nivel de abogado)" },
+          "despues": { "indice": 68.1, "nivel": "normal" }
+        },
+        "textoSimplificado": "Cambia el impuesto de aduana que se cobra en las importaciones de uso personal o familiar."
+      }
+    },
+    {
+      "ruta": "/es/resolucion-197-de-2026-de-ministerio-de-finanzas-y-precios",
+      "titulo": "Resolución 197/2026 del Ministerio de Finanzas y Precios",
+      "url": "https://www.gacetaoficial.gob.cu/es/resolucion-197-de-2026-de-ministerio-de-finanzas-y-precios",
+      "detectada": "2026-10-05T00:00:00+00:00",
+      "traduccion": {
+        "etiqueta": "economia_impuestos",
+        "confianza": 0.95,
+        "resumen": [
+          "Las personas naturales que actúan como viajeros pueden optar por la importación comercial de mercancías que no clasifican como no comerciales.",
+          "Pagan el Impuesto Aduanero aplicando tarifas arancelarias progresivas: 15 % hasta 2.000 USD, 20 % hasta 4.000, 25 % hasta 6.000 y 30 % por encima de 6.000."
+        ],
+        "terminos": [
+          { "termino": "persona natural", "claro": "una persona común, no una empresa" },
+          { "termino": "arancel", "claro": "impuesto de aduana" }
+        ],
+        "legibilidad": {
+          "antes": { "indice": 25.9, "nivel": "difícil (nivel de abogado)" },
+          "despues": { "indice": 71.4, "nivel": "algo fácil" }
+        },
+        "textoSimplificado": "Si un viajero trae más de lo permitido, puede pagar impuestos en dólares. El porcentaje sube mientras más valor trae."
+      }
+    },
+    {
+      "ruta": "/es/resolucion-340-de-2026-de-aduana-general-de-la-republica",
+      "titulo": "Resolución 340/2026 de la Aduana General de la República",
+      "url": "https://www.gacetaoficial.gob.cu/es/resolucion-340-de-2026-de-aduana-general-de-la-republica",
+      "detectada": "2026-10-05T00:00:00+00:00",
+      "traduccion": {
+        "etiqueta": "aduanas_viajes",
+        "confianza": 0.98,
+        "resumen": [
+          "Establece las «Reglas para las importaciones no comerciales que realizan las personas naturales».",
+          "Regula cuántas unidades de celulares, computadoras, electrodomésticos, ropa y otros productos puede traer un viajero para uso personal.",
+          "Deroga y sustituye la Resolución 175/2022 y sus modificaciones posteriores."
+        ],
+        "terminos": [
+          { "termino": "importacion", "claro": "traer productos del extranjero a Cuba" },
+          { "termino": "excedente", "claro": "lo que sobra por encima del límite" },
+          { "termino": "derogar", "claro": "dejar sin efecto una ley anterior" }
+        ],
+        "legibilidad": {
+          "antes": { "indice": 23.1, "nivel": "difícil (nivel de abogado)" },
+          "despues": { "indice": 69.8, "nivel": "normal" }
+        },
+        "textoSimplificado": "Es el manual con los límites por producto y explica cómo se aplica el despacho comercial al excedente."
+      }
+    }
+  ]
+}

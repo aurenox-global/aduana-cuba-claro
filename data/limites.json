@@ -1,0 +1,60 @@
+{
+  "vigente_desde": "2026-10-12",
+  "fuente": "Gaceta Oficial No. 83 Ordinaria de 2026 (05/10/2026)",
+  "normas": [
+    {
+      "id": "DL-132-2026",
+      "tipo": "Decreto-Ley 132/2026 (Consejo de Estado)",
+      "que_hace": "Modifica el Artículo 14 del Decreto-Ley 22 “Arancel de Aduanas de la República de Cuba para las importaciones sin carácter comercial” (2020).",
+      "claro": "Toca la regla que decide cuánto se paga de aduana cuando traes cosas para ti o tu familia."
+    },
+    {
+      "id": "R-197-2026",
+      "tipo": "Resolución 197/2026 (Ministerio de Finanzas y Precios)",
+      "que_hace": "Fija los aranceles progresivos que paga una persona natural cuando su mercancía pasa a importación comercial.",
+      "claro": "Es la lista de precios de los impuestos: mientras más valor traes, más % pagas."
+    },
+    {
+      "id": "R-340-2026",
+      "tipo": "Resolución 340/2026 (Aduana General de la República)",
+      "que_hace": "Establece las “Reglas para las importaciones no comerciales que realizan las personas naturales”.",
+      "claro": "Es el manual con los límites por producto: cuántos celulares, cuántas computadoras, cuántos kg de ropa, etc."
+    }
+  ],
+  "regla_general": {
+    "hasta_50_usd": 5,
+    "mas_de_50_usd": 3,
+    "texto": "Como regla general se admiten hasta 5 unidades de cada tipo de artículo si cada uno vale 50 USD o menos, y hasta 3 unidades si cada uno vale más de 50 USD."
+  },
+  "limites": [
+    { "categoria": "Teléfonos celulares o inteligentes", "limite": "5 unidades", "valor_ref": "80 USD por unidad", "notas": "Valor de referencia oficial: 80 USD c/u." },
+    { "categoria": "Equipos de cómputo (escritorio + laptop + tablet)", "limite": "3 equipos en total", "valor_ref": "Escritorio 200 USD · Laptop 250 USD · Tablet 100 USD", "notas": "El límite de 3 es la suma de todas las categorías juntas, no 3 de cada una." },
+    { "categoria": "Telecomunicaciones, redes y periféricos", "limite": "3 artículos", "valor_ref": "Según valor de referencia", "notas": "Routers, transmisores de radio y teléfonos satelitales pueden necesitar autorización del MINCOM." },
+    { "categoria": "Electrodomésticos del mismo tipo", "limite": "2 unidades del mismo tipo", "valor_ref": "Refrigerador 300 USD · Congelador 350 USD · TV 250–500 USD · Aire acondicionado (hasta 1 tonelada) 150–200 USD", "notas": "La suma de los valores debe mantenerse dentro del límite autorizado." },
+    { "categoria": "Plantas eléctricas", "limite": "2 unidades", "valor_ref": "Según valor de referencia", "notas": "Incluidas expresamente en la regla de 2 unidades." },
+    { "categoria": "Misceláneas (ropa, calzado, alimentos, aseo, bisutería, perfumería)", "limite": "5 kg por producto repetido", "valor_ref": "Valoración: 1 kg = 10 USD", "notas": "Si el objeto es muy pequeño (piedras de encendedor, baterías de reloj), el límite puede bajar a 1 kg." },
+    { "categoria": "Herramientas", "limite": "2 de cada tipo", "valor_ref": "Según declaración, factura o referencia", "notas": "Aplica a herramientas valoradas por declaración, factura o valor de referencia." },
+    { "categoria": "Instrumentos musicales", "limite": "3 unidades", "valor_ref": "Según valor de referencia", "notas": "" },
+    { "categoria": "Materiales de construcción", "limite": "50 m² de enchapes y pisos · 50 unidades de ciertas manufacturas · 10 unidades de otros herrajes", "valor_ref": "Según valor de referencia", "notas": "" },
+    { "categoria": "Vehículos, motos y ciclomotores", "limite": "Reglas propias", "valor_ref": "Otras disposiciones", "notas": "El despacho comercial del excedente no permite superar los máximos fijados en otras leyes." }
+  ],
+  "aranceles_progresivos": [
+    { "hasta": 2000, "tarifa": 0.15, "texto": "15 % sobre el valor hasta 2.000 USD" },
+    { "desde": 2000, "hasta": 4000, "tarifa": 0.20, "texto": "20 % sobre la parte entre 2.000 y 4.000 USD" },
+    { "desde": 4000, "hasta": 6000, "tarifa": 0.25, "texto": "25 % sobre la parte entre 4.000 y 6.000 USD" },
+    { "desde": 6000, "tarifa": 0.30, "texto": "30 % sobre todo lo que pase de 6.000 USD" }
+  ],
+  "envios_postales_tarifa": 0.30,
+  "envios": {
+    "limite_general_valor": 500,
+    "exento_general": { "valor": 30, "peso_kg": 3 },
+    "solo_esenciales_exento": { "valor": 200, "peso_kg": 20 },
+    "equipaje_acompanado_esenciales": "Sin límite de valor y exento (presentar en bultos separados).",
+    "equipaje_no_acompanado_esenciales": "Hasta 500 USD o 50 kg, exento.",
+    "valoracion_kg": 10
+  },
+  "pago": {
+    "formas": "Tarjetas internacionales o tarjetas nacionales habilitadas para operar en dólares.",
+    "efectivo": "El efectivo en USD solo se acepta en aeropuertos."
+  }
+}
