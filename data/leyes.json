@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-12T00:00:00+00:00",
+  "actualizado": "2026-10-13T06:56:05+00:00",
   "fuentes": [
     "https://www.gacetaoficial.gob.cu/es/normas-juridicas",
     "https://www.gacetaoficial.gob.cu/es/gacetas-oficiales",
@@ -7,6 +7,868 @@
   ],
   "errores": [],
   "normas": [
+    {
+      "ruta": "/es/gacetas-oficiales-1990-2008",
+      "titulo": "GACETAS OFICIALES (1990-1995)",
+      "url": "https://www.gacetaoficial.gob.cu/es/gacetas-oficiales-1990-2008",
+      "detectada": "2026-10-13T06:55:24+00:00",
+      "traduccion": {
+        "etiqueta": "aduanas_viajes",
+        "confianza": 0.24,
+        "resumen": [
+          "Norma publicada en la el boletín donde se publican las leyes de la República de Cuba."
+        ],
+        "terminos": [
+          {
+            "termino": "gaceta oficial",
+            "claro": "el boletín donde se publican las leyes"
+          }
+        ],
+        "legibilidad": {
+          "antes": {
+            "indice": 60.5,
+            "nivel": "normal"
+          },
+          "despues": {
+            "indice": 77.8,
+            "nivel": "algo fácil"
+          }
+        },
+        "textoSimplificado": "GACETAS OFICIALES (1990-1995). Norma publicada en la el boletín donde se publican las leyes de la República de Cuba."
+      }
+    },
+    {
+      "ruta": "/es/gacetas-oficiales",
+      "titulo": "GACETAS DESDE 1996",
+      "url": "https://www.gacetaoficial.gob.cu/es/gacetas-oficiales",
+      "detectada": "2026-10-13T06:55:24+00:00",
+      "traduccion": {
+        "etiqueta": "aduanas_viajes",
+        "confianza": 0.24,
+        "resumen": [
+          "Norma publicada en la el boletín donde se publican las leyes de la República de Cuba."
+        ],
+        "terminos": [
+          {
+            "termino": "gaceta oficial",
+            "claro": "el boletín donde se publican las leyes"
+          }
+        ],
+        "legibilidad": {
+          "antes": {
+            "indice": 69.8,
+            "nivel": "normal"
+          },
+          "despues": {
+            "indice": 84.5,
+            "nivel": "fácil"
+          }
+        },
+        "textoSimplificado": "GACETAS DESDE 1996. Norma publicada en la el boletín donde se publican las leyes de la República de Cuba."
+      }
+    },
+    {
+      "ruta": "/es/resolucion-conjunta-1-de-2018-de-ministerio-del-interior-ministerio-de-justicia-instituto-nacional",
+      "titulo": "Resolución Conjunta 1 de 2018 de Ministerio del Interior, Ministerio de Justicia, Instituto Nacional de la Vivienda",
+      "url": "https://www.gacetaoficial.gob.cu/es/resolucion-conjunta-1-de-2018-de-ministerio-del-interior-ministerio-de-justicia-instituto-nacional",
+      "detectada": "2026-10-13T06:55:24+00:00",
+      "traduccion": {
+        "etiqueta": "tecnologia",
+        "confianza": 0.25,
+        "resumen": [
+          "Resolución Conjunta 1 de 2018 de Ministerio del Interior, Ministerio de Justicia, Instituto Nacional de la Vivienda.",
+          "Norma publicada en la el boletín donde se publican las leyes de la República de Cuba."
+        ],
+        "terminos": [
+          {
+            "termino": "gaceta oficial",
+            "claro": "el boletín donde se publican las leyes"
+          }
+        ],
+        "legibilidad": {
+          "antes": {
+            "indice": 60.5,
+            "nivel": "normal"
+          },
+          "despues": {
+            "indice": 70.6,
+            "nivel": "algo fácil"
+          }
+        },
+        "textoSimplificado": "Resolución Conjunta 1 de 2018 de Ministerio del Interior, Ministerio de Justicia, Instituto Nacional de la Vivienda. Norma publicada en la el boletín donde se publican las leyes de la República de Cuba."
+      }
+    },
+    {
+      "ruta": "/es/acuerdo-x-185-de-2026-de-asamblea-nacional-del-poder-popular",
+      "titulo": "Acuerdo X-185 de 2026 de Asamblea Nacional del Poder Popular",
+      "url": "https://www.gacetaoficial.gob.cu/es/acuerdo-x-185-de-2026-de-asamblea-nacional-del-poder-popular",
+      "detectada": "2026-10-13T06:55:24+00:00",
+      "traduccion": {
+        "etiqueta": "aduanas_viajes",
+        "confianza": 0.21,
+        "resumen": [
+          "Acuerdo X-185 de 2026 de Asamblea Nacional del Poder Popular.",
+          "Norma publicada en la el boletín donde se publican las leyes de la República de Cuba."
+        ],
+        "terminos": [
+          {
+            "termino": "gaceta oficial",
+            "claro": "el boletín donde se publican las leyes"
+          }
+        ],
+        "legibilidad": {
+          "antes": {
+            "indice": 73.6,
+            "nivel": "algo fácil"
+          },
+          "despues": {
+            "indice": 83.5,
+            "nivel": "fácil"
+          }
+        },
+        "textoSimplificado": "Acuerdo X-185 de 2026 de Asamblea Nacional del Poder Popular. Norma publicada en la el boletín donde se publican las leyes de la República de Cuba."
+      }
+    },
+    {
+      "ruta": "/es/acuerdo-x-184-de-2026-de-asamblea-nacional-del-poder-popular",
+      "titulo": "Acuerdo X-184 de 2026 de Asamblea Nacional del Poder Popular",
+      "url": "https://www.gacetaoficial.gob.cu/es/acuerdo-x-184-de-2026-de-asamblea-nacional-del-poder-popular",
+      "detectada": "2026-10-13T06:55:24+00:00",
+      "traduccion": {
+        "etiqueta": "aduanas_viajes",
+        "confianza": 0.21,
+        "resumen": [
+          "Acuerdo X-184 de 2026 de Asamblea Nacional del Poder Popular.",
+          "Norma publicada en la el boletín donde se publican las leyes de la República de Cuba."
+        ],
+        "terminos": [
+          {
+            "termino": "gaceta oficial",
+            "claro": "el boletín donde se publican las leyes"
+          }
+        ],
+        "legibilidad": {
+          "antes": {
+            "indice": 73.6,
+            "nivel": "algo fácil"
+          },
+          "despues": {
+            "indice": 83.5,
+            "nivel": "fácil"
+          }
+        },
+        "textoSimplificado": "Acuerdo X-184 de 2026 de Asamblea Nacional del Poder Popular. Norma publicada en la el boletín donde se publican las leyes de la República de Cuba."
+      }
+    },
+    {
+      "ruta": "/es/acuerdo-x-183-de-2026-de-asamblea-nacional-del-poder-popular",
+      "titulo": "Acuerdo X-183 de 2026 de Asamblea Nacional del Poder Popular",
+      "url": "https://www.gacetaoficial.gob.cu/es/acuerdo-x-183-de-2026-de-asamblea-nacional-del-poder-popular",
+      "detectada": "2026-10-13T06:55:24+00:00",
+      "traduccion": {
+        "etiqueta": "aduanas_viajes",
+        "confianza": 0.21,
+        "resumen": [
+          "Acuerdo X-183 de 2026 de Asamblea Nacional del Poder Popular.",
+          "Norma publicada en la el boletín donde se publican las leyes de la República de Cuba."
+        ],
+        "terminos": [
+          {
+            "termino": "gaceta oficial",
+            "claro": "el boletín donde se publican las leyes"
+          }
+        ],
+        "legibilidad": {
+          "antes": {
+            "indice": 73.6,
+            "nivel": "algo fácil"
+          },
+          "despues": {
+            "indice": 83.5,
+            "nivel": "fácil"
+          }
+        },
+        "textoSimplificado": "Acuerdo X-183 de 2026 de Asamblea Nacional del Poder Popular. Norma publicada en la el boletín donde se publican las leyes de la República de Cuba."
+      }
+    },
+    {
+      "ruta": "/es/acuerdo-x-182-de-2026-de-asamblea-nacional-del-poder-popular",
+      "titulo": "Acuerdo X-182 de 2026 de Asamblea Nacional del Poder Popular",
+      "url": "https://www.gacetaoficial.gob.cu/es/acuerdo-x-182-de-2026-de-asamblea-nacional-del-poder-popular",
+      "detectada": "2026-10-13T06:55:24+00:00",
+      "traduccion": {
+        "etiqueta": "aduanas_viajes",
+        "confianza": 0.21,
+        "resumen": [
+          "Acuerdo X-182 de 2026 de Asamblea Nacional del Poder Popular.",
+          "Norma publicada en la el boletín donde se publican las leyes de la República de Cuba."
+        ],
+        "terminos": [
+          {
+            "termino": "gaceta oficial",
+            "claro": "el boletín donde se publican las leyes"
+          }
+        ],
+        "legibilidad": {
+          "antes": {
+            "indice": 73.6,
+            "nivel": "algo fácil"
+          },
+          "despues": {
+            "indice": 83.5,
+            "nivel": "fácil"
+          }
+        },
+        "textoSimplificado": "Acuerdo X-182 de 2026 de Asamblea Nacional del Poder Popular. Norma publicada en la el boletín donde se publican las leyes de la República de Cuba."
+      }
+    },
+    {
+      "ruta": "/es/acuerdo-x-181-de-2026-de-asamblea-nacional-del-poder-popular",
+      "titulo": "Acuerdo X-181 de 2026 de Asamblea Nacional del Poder Popular",
+      "url": "https://www.gacetaoficial.gob.cu/es/acuerdo-x-181-de-2026-de-asamblea-nacional-del-poder-popular",
+      "detectada": "2026-10-13T06:55:24+00:00",
+      "traduccion": {
+        "etiqueta": "aduanas_viajes",
+        "confianza": 0.21,
+        "resumen": [
+          "Acuerdo X-181 de 2026 de Asamblea Nacional del Poder Popular.",
+          "Norma publicada en la el boletín donde se publican las leyes de la República de Cuba."
+        ],
+        "terminos": [
+          {
+            "termino": "gaceta oficial",
+            "claro": "el boletín donde se publican las leyes"
+          }
+        ],
+        "legibilidad": {
+          "antes": {
+            "indice": 73.6,
+            "nivel": "algo fácil"
+          },
+          "despues": {
+            "indice": 83.5,
+            "nivel": "fácil"
+          }
+        },
+        "textoSimplificado": "Acuerdo X-181 de 2026 de Asamblea Nacional del Poder Popular. Norma publicada en la el boletín donde se publican las leyes de la República de Cuba."
+      }
+    },
+    {
+      "ruta": "/es/acuerdo-x-180-de-2026-de-asamblea-nacional-del-poder-popular",
+      "titulo": "Acuerdo X-180 de 2026 de Asamblea Nacional del Poder Popular",
+      "url": "https://www.gacetaoficial.gob.cu/es/acuerdo-x-180-de-2026-de-asamblea-nacional-del-poder-popular",
+      "detectada": "2026-10-13T06:55:24+00:00",
+      "traduccion": {
+        "etiqueta": "aduanas_viajes",
+        "confianza": 0.21,
+        "resumen": [
+          "Acuerdo X-180 de 2026 de Asamblea Nacional del Poder Popular.",
+          "Norma publicada en la el boletín donde se publican las leyes de la República de Cuba."
+        ],
+        "terminos": [
+          {
+            "termino": "gaceta oficial",
+            "claro": "el boletín donde se publican las leyes"
+          }
+        ],
+        "legibilidad": {
+          "antes": {
+            "indice": 73.6,
+            "nivel": "algo fácil"
+          },
+          "despues": {
+            "indice": 83.5,
+            "nivel": "fácil"
+          }
+        },
+        "textoSimplificado": "Acuerdo X-180 de 2026 de Asamblea Nacional del Poder Popular. Norma publicada en la el boletín donde se publican las leyes de la República de Cuba."
+      }
+    },
+    {
+      "ruta": "/es/acuerdo-x-179-de-2026-de-asamblea-nacional-del-poder-popular",
+      "titulo": "Acuerdo X-179 de 2026 de Asamblea Nacional del Poder Popular",
+      "url": "https://www.gacetaoficial.gob.cu/es/acuerdo-x-179-de-2026-de-asamblea-nacional-del-poder-popular",
+      "detectada": "2026-10-13T06:55:24+00:00",
+      "traduccion": {
+        "etiqueta": "aduanas_viajes",
+        "confianza": 0.21,
+        "resumen": [
+          "Acuerdo X-179 de 2026 de Asamblea Nacional del Poder Popular.",
+          "Norma publicada en la el boletín donde se publican las leyes de la República de Cuba."
+        ],
+        "terminos": [
+          {
+            "termino": "gaceta oficial",
+            "claro": "el boletín donde se publican las leyes"
+          }
+        ],
+        "legibilidad": {
+          "antes": {
+            "indice": 73.6,
+            "nivel": "algo fácil"
+          },
+          "despues": {
+            "indice": 83.5,
+            "nivel": "fácil"
+          }
+        },
+        "textoSimplificado": "Acuerdo X-179 de 2026 de Asamblea Nacional del Poder Popular. Norma publicada en la el boletín donde se publican las leyes de la República de Cuba."
+      }
+    },
+    {
+      "ruta": "/es/acuerdo-x-178-de-2026-de-asamblea-nacional-del-poder-popular",
+      "titulo": "Acuerdo X-178 de 2026 de Asamblea Nacional del Poder Popular",
+      "url": "https://www.gacetaoficial.gob.cu/es/acuerdo-x-178-de-2026-de-asamblea-nacional-del-poder-popular",
+      "detectada": "2026-10-13T06:55:24+00:00",
+      "traduccion": {
+        "etiqueta": "aduanas_viajes",
+        "confianza": 0.21,
+        "resumen": [
+          "Acuerdo X-178 de 2026 de Asamblea Nacional del Poder Popular.",
+          "Norma publicada en la el boletín donde se publican las leyes de la República de Cuba."
+        ],
+        "terminos": [
+          {
+            "termino": "gaceta oficial",
+            "claro": "el boletín donde se publican las leyes"
+          }
+        ],
+        "legibilidad": {
+          "antes": {
+            "indice": 73.6,
+            "nivel": "algo fácil"
+          },
+          "despues": {
+            "indice": 83.5,
+            "nivel": "fácil"
+          }
+        },
+        "textoSimplificado": "Acuerdo X-178 de 2026 de Asamblea Nacional del Poder Popular. Norma publicada en la el boletín donde se publican las leyes de la República de Cuba."
+      }
+    },
+    {
+      "ruta": "/es/acuerdo-x-177-de-2026-de-asamblea-nacional-del-poder-popular",
+      "titulo": "Acuerdo X-177 de 2026 de Asamblea Nacional del Poder Popular",
+      "url": "https://www.gacetaoficial.gob.cu/es/acuerdo-x-177-de-2026-de-asamblea-nacional-del-poder-popular",
+      "detectada": "2026-10-13T06:55:24+00:00",
+      "traduccion": {
+        "etiqueta": "aduanas_viajes",
+        "confianza": 0.21,
+        "resumen": [
+          "Acuerdo X-177 de 2026 de Asamblea Nacional del Poder Popular.",
+          "Norma publicada en la el boletín donde se publican las leyes de la República de Cuba."
+        ],
+        "terminos": [
+          {
+            "termino": "gaceta oficial",
+            "claro": "el boletín donde se publican las leyes"
+          }
+        ],
+        "legibilidad": {
+          "antes": {
+            "indice": 73.6,
+            "nivel": "algo fácil"
+          },
+          "despues": {
+            "indice": 83.5,
+            "nivel": "fácil"
+          }
+        },
+        "textoSimplificado": "Acuerdo X-177 de 2026 de Asamblea Nacional del Poder Popular. Norma publicada en la el boletín donde se publican las leyes de la República de Cuba."
+      }
+    },
+    {
+      "ruta": "/es/acuerdo-x-176-de-2026-de-asamblea-nacional-del-poder-popular",
+      "titulo": "Acuerdo X-176 de 2026 de Asamblea Nacional del Poder Popular",
+      "url": "https://www.gacetaoficial.gob.cu/es/acuerdo-x-176-de-2026-de-asamblea-nacional-del-poder-popular",
+      "detectada": "2026-10-13T06:55:24+00:00",
+      "traduccion": {
+        "etiqueta": "aduanas_viajes",
+        "confianza": 0.21,
+        "resumen": [
+          "Acuerdo X-176 de 2026 de Asamblea Nacional del Poder Popular.",
+          "Norma publicada en la el boletín donde se publican las leyes de la República de Cuba."
+        ],
+        "terminos": [
+          {
+            "termino": "gaceta oficial",
+            "claro": "el boletín donde se publican las leyes"
+          }
+        ],
+        "legibilidad": {
+          "antes": {
+            "indice": 73.6,
+            "nivel": "algo fácil"
+          },
+          "despues": {
+            "indice": 83.5,
+            "nivel": "fácil"
+          }
+        },
+        "textoSimplificado": "Acuerdo X-176 de 2026 de Asamblea Nacional del Poder Popular. Norma publicada en la el boletín donde se publican las leyes de la República de Cuba."
+      }
+    },
+    {
+      "ruta": "/es/acuerdo-x-175-de-2026-de-asamblea-nacional-del-poder-popular",
+      "titulo": "Acuerdo X-175 de 2026 de Asamblea Nacional del Poder Popular",
+      "url": "https://www.gacetaoficial.gob.cu/es/acuerdo-x-175-de-2026-de-asamblea-nacional-del-poder-popular",
+      "detectada": "2026-10-13T06:55:24+00:00",
+      "traduccion": {
+        "etiqueta": "aduanas_viajes",
+        "confianza": 0.21,
+        "resumen": [
+          "Acuerdo X-175 de 2026 de Asamblea Nacional del Poder Popular.",
+          "Norma publicada en la el boletín donde se publican las leyes de la República de Cuba."
+        ],
+        "terminos": [
+          {
+            "termino": "gaceta oficial",
+            "claro": "el boletín donde se publican las leyes"
+          }
+        ],
+        "legibilidad": {
+          "antes": {
+            "indice": 73.6,
+            "nivel": "algo fácil"
+          },
+          "despues": {
+            "indice": 83.5,
+            "nivel": "fácil"
+          }
+        },
+        "textoSimplificado": "Acuerdo X-175 de 2026 de Asamblea Nacional del Poder Popular. Norma publicada en la el boletín donde se publican las leyes de la República de Cuba."
+      }
+    },
+    {
+      "ruta": "/es/acuerdo-x-174-de-2026-de-asamblea-nacional-del-poder-popular",
+      "titulo": "Acuerdo X-174 de 2026 de Asamblea Nacional del Poder Popular",
+      "url": "https://www.gacetaoficial.gob.cu/es/acuerdo-x-174-de-2026-de-asamblea-nacional-del-poder-popular",
+      "detectada": "2026-10-13T06:55:24+00:00",
+      "traduccion": {
+        "etiqueta": "aduanas_viajes",
+        "confianza": 0.21,
+        "resumen": [
+          "Acuerdo X-174 de 2026 de Asamblea Nacional del Poder Popular.",
+          "Norma publicada en la el boletín donde se publican las leyes de la República de Cuba."
+        ],
+        "terminos": [
+          {
+            "termino": "gaceta oficial",
+            "claro": "el boletín donde se publican las leyes"
+          }
+        ],
+        "legibilidad": {
+          "antes": {
+            "indice": 73.6,
+            "nivel": "algo fácil"
+          },
+          "despues": {
+            "indice": 83.5,
+            "nivel": "fácil"
+          }
+        },
+        "textoSimplificado": "Acuerdo X-174 de 2026 de Asamblea Nacional del Poder Popular. Norma publicada en la el boletín donde se publican las leyes de la República de Cuba."
+      }
+    },
+    {
+      "ruta": "/es/acuerdo-x-173-de-2026-de-asamblea-nacional-del-poder-popular",
+      "titulo": "Acuerdo X-173 de 2026 de Asamblea Nacional del Poder Popular",
+      "url": "https://www.gacetaoficial.gob.cu/es/acuerdo-x-173-de-2026-de-asamblea-nacional-del-poder-popular",
+      "detectada": "2026-10-13T06:55:24+00:00",
+      "traduccion": {
+        "etiqueta": "aduanas_viajes",
+        "confianza": 0.21,
+        "resumen": [
+          "Acuerdo X-173 de 2026 de Asamblea Nacional del Poder Popular.",
+          "Norma publicada en la el boletín donde se publican las leyes de la República de Cuba."
+        ],
+        "terminos": [
+          {
+            "termino": "gaceta oficial",
+            "claro": "el boletín donde se publican las leyes"
+          }
+        ],
+        "legibilidad": {
+          "antes": {
+            "indice": 73.6,
+            "nivel": "algo fácil"
+          },
+          "despues": {
+            "indice": 83.5,
+            "nivel": "fácil"
+          }
+        },
+        "textoSimplificado": "Acuerdo X-173 de 2026 de Asamblea Nacional del Poder Popular. Norma publicada en la el boletín donde se publican las leyes de la República de Cuba."
+      }
+    },
+    {
+      "ruta": "/es/acuerdo-x-172-de-2026-de-asamblea-nacional-del-poder-popular",
+      "titulo": "Acuerdo X-172 de 2026 de Asamblea Nacional del Poder Popular",
+      "url": "https://www.gacetaoficial.gob.cu/es/acuerdo-x-172-de-2026-de-asamblea-nacional-del-poder-popular",
+      "detectada": "2026-10-13T06:55:24+00:00",
+      "traduccion": {
+        "etiqueta": "aduanas_viajes",
+        "confianza": 0.21,
+        "resumen": [
+          "Acuerdo X-172 de 2026 de Asamblea Nacional del Poder Popular.",
+          "Norma publicada en la el boletín donde se publican las leyes de la República de Cuba."
+        ],
+        "terminos": [
+          {
+            "termino": "gaceta oficial",
+            "claro": "el boletín donde se publican las leyes"
+          }
+        ],
+        "legibilidad": {
+          "antes": {
+            "indice": 73.6,
+            "nivel": "algo fácil"
+          },
+          "despues": {
+            "indice": 83.5,
+            "nivel": "fácil"
+          }
+        },
+        "textoSimplificado": "Acuerdo X-172 de 2026 de Asamblea Nacional del Poder Popular. Norma publicada en la el boletín donde se publican las leyes de la República de Cuba."
+      }
+    },
+    {
+      "ruta": "/es/acuerdo-x-171-de-2026-de-asamblea-nacional-del-poder-popular",
+      "titulo": "Acuerdo X-171 de 2026 de Asamblea Nacional del Poder Popular",
+      "url": "https://www.gacetaoficial.gob.cu/es/acuerdo-x-171-de-2026-de-asamblea-nacional-del-poder-popular",
+      "detectada": "2026-10-13T06:55:24+00:00",
+      "traduccion": {
+        "etiqueta": "aduanas_viajes",
+        "confianza": 0.21,
+        "resumen": [
+          "Acuerdo X-171 de 2026 de Asamblea Nacional del Poder Popular.",
+          "Norma publicada en la el boletín donde se publican las leyes de la República de Cuba."
+        ],
+        "terminos": [
+          {
+            "termino": "gaceta oficial",
+            "claro": "el boletín donde se publican las leyes"
+          }
+        ],
+        "legibilidad": {
+          "antes": {
+            "indice": 73.6,
+            "nivel": "algo fácil"
+          },
+          "despues": {
+            "indice": 83.5,
+            "nivel": "fácil"
+          }
+        },
+        "textoSimplificado": "Acuerdo X-171 de 2026 de Asamblea Nacional del Poder Popular. Norma publicada en la el boletín donde se publican las leyes de la República de Cuba."
+      }
+    },
+    {
+      "ruta": "/es/acuerdo-x-170-de-2026-de-asamblea-nacional-del-poder-popular",
+      "titulo": "Acuerdo X-170 de 2026 de Asamblea Nacional del Poder Popular",
+      "url": "https://www.gacetaoficial.gob.cu/es/acuerdo-x-170-de-2026-de-asamblea-nacional-del-poder-popular",
+      "detectada": "2026-10-13T06:55:24+00:00",
+      "traduccion": {
+        "etiqueta": "aduanas_viajes",
+        "confianza": 0.21,
+        "resumen": [
+          "Acuerdo X-170 de 2026 de Asamblea Nacional del Poder Popular.",
+          "Norma publicada en la el boletín donde se publican las leyes de la República de Cuba."
+        ],
+        "terminos": [
+          {
+            "termino": "gaceta oficial",
+            "claro": "el boletín donde se publican las leyes"
+          }
+        ],
+        "legibilidad": {
+          "antes": {
+            "indice": 73.6,
+            "nivel": "algo fácil"
+          },
+          "despues": {
+            "indice": 83.5,
+            "nivel": "fácil"
+          }
+        },
+        "textoSimplificado": "Acuerdo X-170 de 2026 de Asamblea Nacional del Poder Popular. Norma publicada en la el boletín donde se publican las leyes de la República de Cuba."
+      }
+    },
+    {
+      "ruta": "/es/acuerdo-x-169-de-2026-de-asamblea-nacional-del-poder-popular",
+      "titulo": "Acuerdo X-169 de 2026 de Asamblea Nacional del Poder Popular",
+      "url": "https://www.gacetaoficial.gob.cu/es/acuerdo-x-169-de-2026-de-asamblea-nacional-del-poder-popular",
+      "detectada": "2026-10-13T06:55:24+00:00",
+      "traduccion": {
+        "etiqueta": "aduanas_viajes",
+        "confianza": 0.21,
+        "resumen": [
+          "Acuerdo X-169 de 2026 de Asamblea Nacional del Poder Popular.",
+          "Norma publicada en la el boletín donde se publican las leyes de la República de Cuba."
+        ],
+        "terminos": [
+          {
+            "termino": "gaceta oficial",
+            "claro": "el boletín donde se publican las leyes"
+          }
+        ],
+        "legibilidad": {
+          "antes": {
+            "indice": 73.6,
+            "nivel": "algo fácil"
+          },
+          "despues": {
+            "indice": 83.5,
+            "nivel": "fácil"
+          }
+        },
+        "textoSimplificado": "Acuerdo X-169 de 2026 de Asamblea Nacional del Poder Popular. Norma publicada en la el boletín donde se publican las leyes de la República de Cuba."
+      }
+    },
+    {
+      "ruta": "/es/acuerdo-x-168-de-2026-de-asamblea-nacional-del-poder-popular",
+      "titulo": "Acuerdo X-168 de 2026 de Asamblea Nacional del Poder Popular",
+      "url": "https://www.gacetaoficial.gob.cu/es/acuerdo-x-168-de-2026-de-asamblea-nacional-del-poder-popular",
+      "detectada": "2026-10-13T06:55:24+00:00",
+      "traduccion": {
+        "etiqueta": "aduanas_viajes",
+        "confianza": 0.21,
+        "resumen": [
+          "Acuerdo X-168 de 2026 de Asamblea Nacional del Poder Popular.",
+          "Norma publicada en la el boletín donde se publican las leyes de la República de Cuba."
+        ],
+        "terminos": [
+          {
+            "termino": "gaceta oficial",
+            "claro": "el boletín donde se publican las leyes"
+          }
+        ],
+        "legibilidad": {
+          "antes": {
+            "indice": 73.6,
+            "nivel": "algo fácil"
+          },
+          "despues": {
+            "indice": 83.5,
+            "nivel": "fácil"
+          }
+        },
+        "textoSimplificado": "Acuerdo X-168 de 2026 de Asamblea Nacional del Poder Popular. Norma publicada en la el boletín donde se publican las leyes de la República de Cuba."
+      }
+    },
+    {
+      "ruta": "/es/resolucion-v-22-de-2026-de-ministerio-de-la-construccion",
+      "titulo": "Resolución V-22 de 2026 de Ministerio de la Construcción",
+      "url": "https://www.gacetaoficial.gob.cu/es/resolucion-v-22-de-2026-de-ministerio-de-la-construccion",
+      "detectada": "2026-10-13T06:55:24+00:00",
+      "traduccion": {
+        "etiqueta": "aduanas_viajes",
+        "confianza": 0.19,
+        "resumen": [
+          "Resolución V-22 de 2026 de Ministerio de la Construcción.",
+          "Norma publicada en la el boletín donde se publican las leyes de la República de Cuba."
+        ],
+        "terminos": [
+          {
+            "termino": "gaceta oficial",
+            "claro": "el boletín donde se publican las leyes"
+          }
+        ],
+        "legibilidad": {
+          "antes": {
+            "indice": 72.9,
+            "nivel": "algo fácil"
+          },
+          "despues": {
+            "indice": 83.3,
+            "nivel": "fácil"
+          }
+        },
+        "textoSimplificado": "Resolución V-22 de 2026 de Ministerio de la Construcción. Norma publicada en la el boletín donde se publican las leyes de la República de Cuba."
+      }
+    },
+    {
+      "ruta": "/es/resolucion-v-21-de-2026-de-ministerio-de-la-construccion",
+      "titulo": "Resolución V-21 de 2026 de Ministerio de la Construcción",
+      "url": "https://www.gacetaoficial.gob.cu/es/resolucion-v-21-de-2026-de-ministerio-de-la-construccion",
+      "detectada": "2026-10-13T06:55:24+00:00",
+      "traduccion": {
+        "etiqueta": "aduanas_viajes",
+        "confianza": 0.19,
+        "resumen": [
+          "Resolución V-21 de 2026 de Ministerio de la Construcción.",
+          "Norma publicada en la el boletín donde se publican las leyes de la República de Cuba."
+        ],
+        "terminos": [
+          {
+            "termino": "gaceta oficial",
+            "claro": "el boletín donde se publican las leyes"
+          }
+        ],
+        "legibilidad": {
+          "antes": {
+            "indice": 72.9,
+            "nivel": "algo fácil"
+          },
+          "despues": {
+            "indice": 83.3,
+            "nivel": "fácil"
+          }
+        },
+        "textoSimplificado": "Resolución V-21 de 2026 de Ministerio de la Construcción. Norma publicada en la el boletín donde se publican las leyes de la República de Cuba."
+      }
+    },
+    {
+      "ruta": "/es/resolucion-v-03-de-2026-de-ministerio-de-la-construccion",
+      "titulo": "Resolución V-03 de 2026 de Ministerio de la Construcción",
+      "url": "https://www.gacetaoficial.gob.cu/es/resolucion-v-03-de-2026-de-ministerio-de-la-construccion",
+      "detectada": "2026-10-13T06:55:24+00:00",
+      "traduccion": {
+        "etiqueta": "aduanas_viajes",
+        "confianza": 0.19,
+        "resumen": [
+          "Resolución V-03 de 2026 de Ministerio de la Construcción.",
+          "Norma publicada en la el boletín donde se publican las leyes de la República de Cuba."
+        ],
+        "terminos": [
+          {
+            "termino": "gaceta oficial",
+            "claro": "el boletín donde se publican las leyes"
+          }
+        ],
+        "legibilidad": {
+          "antes": {
+            "indice": 72.9,
+            "nivel": "algo fácil"
+          },
+          "despues": {
+            "indice": 83.3,
+            "nivel": "fácil"
+          }
+        },
+        "textoSimplificado": "Resolución V-03 de 2026 de Ministerio de la Construcción. Norma publicada en la el boletín donde se publican las leyes de la República de Cuba."
+      }
+    },
+    {
+      "ruta": "/es/gacetas-oficiales-1990-2008",
+      "titulo": "GACETAS OFICIALES (1990-1995)",
+      "url": "https://www.gacetaoficial.gob.cu/es/gacetas-oficiales-1990-2008",
+      "detectada": "2026-10-13T06:55:44+00:00",
+      "traduccion": {
+        "etiqueta": "aduanas_viajes",
+        "confianza": 0.24,
+        "resumen": [
+          "Norma publicada en la el boletín donde se publican las leyes de la República de Cuba."
+        ],
+        "terminos": [
+          {
+            "termino": "gaceta oficial",
+            "claro": "el boletín donde se publican las leyes"
+          }
+        ],
+        "legibilidad": {
+          "antes": {
+            "indice": 60.5,
+            "nivel": "normal"
+          },
+          "despues": {
+            "indice": 77.8,
+            "nivel": "algo fácil"
+          }
+        },
+        "textoSimplificado": "GACETAS OFICIALES (1990-1995). Norma publicada en la el boletín donde se publican las leyes de la República de Cuba."
+      }
+    },
+    {
+      "ruta": "/es/gacetas-oficiales",
+      "titulo": "GACETAS DESDE 1996",
+      "url": "https://www.gacetaoficial.gob.cu/es/gacetas-oficiales",
+      "detectada": "2026-10-13T06:55:44+00:00",
+      "traduccion": {
+        "etiqueta": "aduanas_viajes",
+        "confianza": 0.24,
+        "resumen": [
+          "Norma publicada en la el boletín donde se publican las leyes de la República de Cuba."
+        ],
+        "terminos": [
+          {
+            "termino": "gaceta oficial",
+            "claro": "el boletín donde se publican las leyes"
+          }
+        ],
+        "legibilidad": {
+          "antes": {
+            "indice": 69.8,
+            "nivel": "normal"
+          },
+          "despues": {
+            "indice": 84.5,
+            "nivel": "fácil"
+          }
+        },
+        "textoSimplificado": "GACETAS DESDE 1996. Norma publicada en la el boletín donde se publican las leyes de la República de Cuba."
+      }
+    },
+    {
+      "ruta": "/es/gacetas-oficiales-1990-2008",
+      "titulo": "GACETAS OFICIALES (1990-1995)",
+      "url": "https://www.gacetaoficial.gob.cu/es/gacetas-oficiales-1990-2008",
+      "detectada": "2026-10-13T06:56:05+00:00",
+      "traduccion": {
+        "etiqueta": "aduanas_viajes",
+        "confianza": 0.24,
+        "resumen": [
+          "Norma publicada en la el boletín donde se publican las leyes de la República de Cuba."
+        ],
+        "terminos": [
+          {
+            "termino": "gaceta oficial",
+            "claro": "el boletín donde se publican las leyes"
+          }
+        ],
+        "legibilidad": {
+          "antes": {
+            "indice": 60.5,
+            "nivel": "normal"
+          },
+          "despues": {
+            "indice": 77.8,
+            "nivel": "algo fácil"
+          }
+        },
+        "textoSimplificado": "GACETAS OFICIALES (1990-1995). Norma publicada en la el boletín donde se publican las leyes de la República de Cuba."
+      }
+    },
+    {
+      "ruta": "/es/gacetas-oficiales",
+      "titulo": "GACETAS DESDE 1996",
+      "url": "https://www.gacetaoficial.gob.cu/es/gacetas-oficiales",
+      "detectada": "2026-10-13T06:56:05+00:00",
+      "traduccion": {
+        "etiqueta": "aduanas_viajes",
+        "confianza": 0.24,
+        "resumen": [
+          "Norma publicada en la el boletín donde se publican las leyes de la República de Cuba."
+        ],
+        "terminos": [
+          {
+            "termino": "gaceta oficial",
+            "claro": "el boletín donde se publican las leyes"
+          }
+        ],
+        "legibilidad": {
+          "antes": {
+            "indice": 69.8,
+            "nivel": "normal"
+          },
+          "despues": {
+            "indice": 84.5,
+            "nivel": "fácil"
+          }
+        },
+        "textoSimplificado": "GACETAS DESDE 1996. Norma publicada en la el boletín donde se publican las leyes de la República de Cuba."
+      }
+    },
     {
       "ruta": "/es/decreto-ley-132-de-2026-de-consejo-de-estado",
       "titulo": "Decreto-Ley 132/2026 del Consejo de Estado",
@@ -20,12 +882,24 @@
           "Ajusta la regla que decide cuánto se paga de aduana cuando una persona trae mercancía para su uso personal o familiar."
         ],
         "terminos": [
-          { "termino": "arancel", "claro": "impuesto de aduana" },
-          { "termino": "sin caracter comercial", "claro": "para ti o tu familia, no para venderlo" }
+          {
+            "termino": "arancel",
+            "claro": "impuesto de aduana"
+          },
+          {
+            "termino": "sin caracter comercial",
+            "claro": "para ti o tu familia, no para venderlo"
+          }
         ],
         "legibilidad": {
-          "antes": { "indice": 22.4, "nivel": "difícil (nivel de abogado)" },
-          "despues": { "indice": 68.1, "nivel": "normal" }
+          "antes": {
+            "indice": 22.4,
+            "nivel": "difícil (nivel de abogado)"
+          },
+          "despues": {
+            "indice": 68.1,
+            "nivel": "normal"
+          }
         },
         "textoSimplificado": "Cambia el impuesto de aduana que se cobra en las importaciones de uso personal o familiar."
       }
@@ -43,12 +917,24 @@
           "Pagan el Impuesto Aduanero aplicando tarifas arancelarias progresivas: 15 % hasta 2.000 USD, 20 % hasta 4.000, 25 % hasta 6.000 y 30 % por encima de 6.000."
         ],
         "terminos": [
-          { "termino": "persona natural", "claro": "una persona común, no una empresa" },
-          { "termino": "arancel", "claro": "impuesto de aduana" }
+          {
+            "termino": "persona natural",
+            "claro": "una persona común, no una empresa"
+          },
+          {
+            "termino": "arancel",
+            "claro": "impuesto de aduana"
+          }
         ],
         "legibilidad": {
-          "antes": { "indice": 25.9, "nivel": "difícil (nivel de abogado)" },
-          "despues": { "indice": 71.4, "nivel": "algo fácil" }
+          "antes": {
+            "indice": 25.9,
+            "nivel": "difícil (nivel de abogado)"
+          },
+          "despues": {
+            "indice": 71.4,
+            "nivel": "algo fácil"
+          }
         },
         "textoSimplificado": "Si un viajero trae más de lo permitido, puede pagar impuestos en dólares. El porcentaje sube mientras más valor trae."
       }
@@ -67,13 +953,28 @@
           "Deroga y sustituye la Resolución 175/2022 y sus modificaciones posteriores."
         ],
         "terminos": [
-          { "termino": "importacion", "claro": "traer productos del extranjero a Cuba" },
-          { "termino": "excedente", "claro": "lo que sobra por encima del límite" },
-          { "termino": "derogar", "claro": "dejar sin efecto una ley anterior" }
+          {
+            "termino": "importacion",
+            "claro": "traer productos del extranjero a Cuba"
+          },
+          {
+            "termino": "excedente",
+            "claro": "lo que sobra por encima del límite"
+          },
+          {
+            "termino": "derogar",
+            "claro": "dejar sin efecto una ley anterior"
+          }
         ],
         "legibilidad": {
-          "antes": { "indice": 23.1, "nivel": "difícil (nivel de abogado)" },
-          "despues": { "indice": 69.8, "nivel": "normal" }
+          "antes": {
+            "indice": 23.1,
+            "nivel": "difícil (nivel de abogado)"
+          },
+          "despues": {
+            "indice": 69.8,
+            "nivel": "normal"
+          }
         },
         "textoSimplificado": "Es el manual con los límites por producto y explica cómo se aplica el despacho comercial al excedente."
       }
