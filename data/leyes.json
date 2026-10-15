@@ -1,14 +1,12 @@
 {
-  "actualizado": "2026-10-14T06:48:40+00:00",
+  "actualizado": "2026-10-15T06:48:02+00:00",
   "fuentes": [
     "https://www.gacetaoficial.gob.cu/es/normas-juridicas",
     "https://www.gacetaoficial.gob.cu/es/gacetas-oficiales",
     "https://www.gacetaoficial.gob.cu/es/ediciones-del-mes"
   ],
   "errores": [
-    "https://www.gacetaoficial.gob.cu/es/normas-juridicas -> <urlopen error timed out>",
-    "https://www.gacetaoficial.gob.cu/es/gacetas-oficiales -> <urlopen error timed out>",
-    "https://www.gacetaoficial.gob.cu/es/ediciones-del-mes -> <urlopen error timed out>"
+    "https://www.gacetaoficial.gob.cu/es/gacetas-oficiales -> <urlopen error timed out>"
   ],
   "normas": [
     {
