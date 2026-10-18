@@ -1,15 +1,11 @@
 {
-  "actualizado": "2026-10-17T06:43:46+00:00",
+  "actualizado": "2026-10-18T06:43:11+00:00",
   "fuentes": [
     "https://www.gacetaoficial.gob.cu/es/normas-juridicas",
     "https://www.gacetaoficial.gob.cu/es/gacetas-oficiales",
     "https://www.gacetaoficial.gob.cu/es/ediciones-del-mes"
   ],
-  "errores": [
-    "https://www.gacetaoficial.gob.cu/es/normas-juridicas -> <urlopen error _ssl.c:993: The handshake operation timed out>",
-    "https://www.gacetaoficial.gob.cu/es/gacetas-oficiales -> <urlopen error timed out>",
-    "https://www.gacetaoficial.gob.cu/es/ediciones-del-mes -> <urlopen error timed out>"
-  ],
+  "errores": [],
   "normas": [
     {
       "ruta": "/es/gacetas-oficiales-1990-2008",
