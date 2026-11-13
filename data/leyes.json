@@ -1,11 +1,13 @@
 {
-  "actualizado": "2026-11-12T06:33:37+00:00",
+  "actualizado": "2026-11-13T06:33:20+00:00",
   "fuentes": [
     "https://www.gacetaoficial.gob.cu/es/normas-juridicas",
     "https://www.gacetaoficial.gob.cu/es/gacetas-oficiales",
     "https://www.gacetaoficial.gob.cu/es/ediciones-del-mes"
   ],
-  "errores": [],
+  "errores": [
+    "https://www.gacetaoficial.gob.cu/es/normas-juridicas -> <urlopen error timed out>"
+  ],
   "normas": [
     {
       "ruta": "/es/gacetas-oficiales-1990-2008",
