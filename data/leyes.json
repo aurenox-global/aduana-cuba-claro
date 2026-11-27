@@ -1,11 +1,15 @@
 {
-  "actualizado": "2026-11-26T06:35:22+00:00",
+  "actualizado": "2026-11-27T06:35:52+00:00",
   "fuentes": [
     "https://www.gacetaoficial.gob.cu/es/normas-juridicas",
     "https://www.gacetaoficial.gob.cu/es/gacetas-oficiales",
     "https://www.gacetaoficial.gob.cu/es/ediciones-del-mes"
   ],
-  "errores": [],
+  "errores": [
+    "https://www.gacetaoficial.gob.cu/es/normas-juridicas -> HTTP Error 403: Forbidden",
+    "https://www.gacetaoficial.gob.cu/es/gacetas-oficiales -> HTTP Error 403: Forbidden",
+    "https://www.gacetaoficial.gob.cu/es/ediciones-del-mes -> <urlopen error timed out>"
+  ],
   "normas": [
     {
       "ruta": "/es/gacetas-oficiales-1990-2008",
